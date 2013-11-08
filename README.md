@@ -1,4 +1,4 @@
 basic_programming
 =================
 
-solution of Eulers Problems and some modified problems
+program to find sum of multiples of n numbers against a given range.
